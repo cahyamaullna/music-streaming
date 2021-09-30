@@ -5,6 +5,10 @@ section{
   
 }
 
+body{
+	background-color: #202020;
+}
+
 .navbar{
 	font-family: "Roboto Condensed", Sans-serif;
 	font-weight: 500;
