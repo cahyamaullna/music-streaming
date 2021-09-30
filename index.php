@@ -77,8 +77,8 @@ if( isset($_POST["signin"])) {
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
           <div class="navbar-nav ml-auto">
-            <a class="nav-item nav-link active wow bounceInDown" href="#" data-wow-duration="0.5s" data-wow-delay="0.2s">Home</a>
-            <a class="nav-item nav-link wow bounceInDown" href="#" data-wow-duration="1s" data-wow-delay="0.2s">Trending</a>
+            <a class="nav-item nav-link active wow bounceInDown" href="index.php" data-wow-duration="0.5s" data-wow-delay="0.2s">Home</a>
+            <a class="nav-item nav-link wow bounceInDown" href="trending.php" data-wow-duration="1s" data-wow-delay="0.2s">Trending</a>
             <a class="nav-item nav-link wow bounceInDown" href="#" data-wow-duration="1.5s" data-wow-delay="0.2s">Popular</a>
             <a class="nav-item nav-link wow bounceInDown" href="#" data-wow-duration="2s" data-wow-delay="0.2s">Contact</a>
             <a class="nav-item nav-link enjoy-now btn btn-primary wow bounceInDown" href="dashboard.php" data-wow-duration="2.5s" data-wow-delay="0.2s">Dashboard</a>
